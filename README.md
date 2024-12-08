@@ -1,2 +1,1 @@
-snakeai için agent.py dosyasını
-blackjackai için qlearning.py dosyasını çalıştırabilirsiniz.
+Yüklemeleri yaptıktan sonra "snakeai" için "agent.py" , "blackjackai" için "qlearning.py" dosyasını çalıştırabilirsiniz
